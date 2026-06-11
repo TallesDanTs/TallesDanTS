@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://images.seeklogo.com/logo-png/15/2/java-logo-png_seeklogo-158094.png">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.icons8.com/color/1200/java-coffee-cup-logo.jpg">
 </div>
   
   ##
