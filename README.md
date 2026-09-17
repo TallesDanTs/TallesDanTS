@@ -1,8 +1,8 @@
 ## Oi, Meu nome é Talles Dantas
 
 - 🏫 Formado em Análise e Desenvolvimento de Sistemas.
-- 🔭 Trabalho com Front-END.
-- 🌱 Estou me especializando em JavaScript, HTML e CSS.
+- 🔭 Desenvolvedor Full Stack.
+- 🌱 Estou me especializando em JavaScript, HTML e CSS, Python e MySQL.
 - 🌐 Tenho Inglês Intermediário.
 - 📫 Entre em contato através do E-mail ou LinkedIn.
 
