@@ -2,7 +2,7 @@
 
 - 🏫 Formado em Análise e Desenvolvimento de Sistemas.
 - 🔭 Desenvolvedor Full Stack.
-- 🌱 Estou me especializando em JavaScript, HTML e CSS, Python e MySQL.
+- 🌱 Estou me especializando em JavaScript, HTML e CSS, Python, MySQL e Java.
 - 🌐 Tenho Inglês Intermediário.
 - 📫 Entre em contato através do E-mail ou LinkedIn.
 
@@ -12,6 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://img.icons8.com/color/1200/java-coffee-cup-logo.jpg">
+  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://img.icons8.com/color/1200/java-coffee-cup-logo.jpg](https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png)">
 </div>
   
   ##
