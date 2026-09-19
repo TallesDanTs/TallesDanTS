@@ -7,6 +7,8 @@
 - 📫 Entre em contato através do E-mail ou LinkedIn.
 
 <div style="display: inline_block"><br>
+
+## Minhas Linguagens:
   
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -25,8 +27,11 @@
 
 ## Minhas Ferramentas
 
+<img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+
 <img align="center" alt="Node JS" height="30" width="30" src="https://assets.zabbix.com/img/brands/nodejs.svg">
 
+<img align="center" alt="DOCKER" height="30" width="30" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
 
 </div>
   
