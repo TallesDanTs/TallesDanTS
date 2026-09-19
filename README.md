@@ -7,6 +7,7 @@
 - 📫 Entre em contato através do E-mail ou LinkedIn.
 
 <div style="display: inline_block"><br>
+  
 ## Minhas Linguagens:
   
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
