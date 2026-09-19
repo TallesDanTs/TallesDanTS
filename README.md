@@ -5,7 +5,6 @@
 - 🌱 HTML, CSS, Java Script, PHP, MySQL, Python e Java.
 - 🌐 Tenho Inglês Intermediário.
 - 📫 Entre em contato através do E-mail ou LinkedIn.
-
 <div style="display: inline_block"><br>
   
 ## Minhas Linguagens:
