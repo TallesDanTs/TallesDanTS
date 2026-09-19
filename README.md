@@ -24,7 +24,7 @@
   <img align="center" alt="Java" height="30" width="30" src="https://img.icons8.com/color/1200/java-coffee-cup-logo.jpg">
   <br>
 
-## Minhas Ferramentas
+## Minhas Ferramentas:
 
 <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
@@ -32,7 +32,7 @@
 
 <img align="center" alt="DOCKER" height="30" width="40" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
 
-<img align="center" alt="MySQL" height="30" width="30" src="https://logoeps.com/wp-content/uploads/2012/03/mysql-vector1.jpg">
+<img align="center" alt="MySQL" height="30" width="30" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
 
 </div>
   
