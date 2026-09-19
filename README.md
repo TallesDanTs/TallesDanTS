@@ -17,7 +17,7 @@
   
   <img align="center" alt="PHP" height="30" width="30" src="https://pngimg.com/uploads/php/php_PNG35.png">
   
-  <img align="center" alt="MySQL" height="30" width="30" src="https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
+  <img align="center" alt="SQL" height="30" width="30" src="https://az-icons.com/images/sql-database/icon.png">
   
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
@@ -31,6 +31,8 @@
 <img align="center" alt="Node JS" height="30" width="30" src="https://assets.zabbix.com/img/brands/nodejs.svg">
 
 <img align="center" alt="DOCKER" height="30" width="40" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
+
+<img align="center" alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?utm_source=wikitech.wikimedia.org&utm_campaign=index&utm_content=original">
 
 </div>
   
