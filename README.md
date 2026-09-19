@@ -30,7 +30,7 @@
 
 <img align="center" alt="Node JS" height="30" width="30" src="https://assets.zabbix.com/img/brands/nodejs.svg">
 
-<img align="center" alt="DOCKER" height="30" width="30" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
+<img align="center" alt="DOCKER" height="30" width="45" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
 
 </div>
   
