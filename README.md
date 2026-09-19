@@ -32,7 +32,7 @@
 
 <img align="center" alt="DOCKER" height="30" width="40" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
 
-<img align="center" alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?utm_source=wikitech.wikimedia.org&utm_campaign=index&utm_content=original">
+<img align="center" alt="MySQL" height="30" width="40" src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg">
 
 </div>
   
