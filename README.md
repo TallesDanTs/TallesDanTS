@@ -2,7 +2,7 @@
 
 - 🏫 Formado em Análise e Desenvolvimento de Sistemas.
 - 🔭 Desenvolvedor Full Stack.
-- 🌱 Estou me especializando em JavaScript, HTML e CSS, Python, MySQL e Java.
+- 🌱 HTML, CSS, Java Script, PHP, MySQL, Python e Java.
 - 🌐 Tenho Inglês Intermediário.
 - 📫 Entre em contato através do E-mail ou LinkedIn.
 
