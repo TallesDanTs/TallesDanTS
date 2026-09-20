@@ -2,7 +2,7 @@
 
 - 🏫 Formado em Análise e Desenvolvimento de Sistemas.
 - 🔭 Desenvolvedor Full Stack.
-- 🌱 HTML, CSS, Java Script, PHP, MySQL, Python e Java.
+- 🌱 HTML, CSS, Java Script, PHP, SQL, Python e Java.
 - 🌐 Tenho Inglês Intermediário.
 - 📫 Entre em contato através do E-mail ou LinkedIn.
 <div style="display: inline_block"><br>
@@ -27,8 +27,6 @@
 ## Minhas Ferramentas:
 
 <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-
-<img align="center" alt="Node JS" height="30" width="30" src="https://assets.zabbix.com/img/brands/nodejs.svg">
 
 <img align="center" alt="DOCKER" height="30" width="40" src="https://logo-teka.com/wp-content/uploads/2026/06/docker-icon-logo.png">
 
